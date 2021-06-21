@@ -1,0 +1,6 @@
+#include<bits/stdc++.h>
+using namespace std;
+int main(){
+	float x = 1.456%1;
+	cout <<c;
+}
